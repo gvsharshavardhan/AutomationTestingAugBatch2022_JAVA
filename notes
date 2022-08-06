@@ -1,0 +1,10 @@
+shortcuts:
+
+crtl + d -> duplicate line
+crtl + y -> delete line
+crtl + / => comment a line
+sout -> print stmt
+main -> main method
+
+
+str + int => str
