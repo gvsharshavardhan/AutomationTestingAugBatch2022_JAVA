@@ -5,10 +5,6 @@ import java.util.Scanner;
 public class UserInputDemo {
 
     public static void main(String[] args) {
-//        Scanner sc = new Scanner(System.in); // creating an obj for scanner
-//        int input = sc.nextInt();
-//
-//        System.out.println(input + " is the popular language!!");
 
         Scanner sc = new Scanner(System.in);
         boolean flag = false;
@@ -29,4 +25,10 @@ public class UserInputDemo {
         }while(flag);
 
     }
+
+    void test(){
+        System.out.println("no input and no output");
+    }
+
+
 }
