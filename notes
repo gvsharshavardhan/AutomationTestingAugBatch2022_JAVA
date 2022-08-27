@@ -8,3 +8,52 @@ main -> main method
 
 
 str + int => str
+
+List
+-----
+1. Insertion order is preserved
+2. It can accept null value
+3. List is Dynamic
+4. Can allow heterogeneous elements
+5. accepts duplicates
+
+ArrayList:
+1. Insertion order is preserved
+2. It can accept null value
+3. List is Dynamic
+4. Can allow heterogeneous elements
+
+Linked List vs arraylist:
+linked list:
+GOOD for: add, delete operations
+BAD for: searching
+
+Arraylist:
+GOOD for: Searching
+BAD for: add or delete
+
+
+SET<Interface>:
+HashSet
+LinkedHashSet
+
+HashSet:
+---------
+1. do not accept duplicates
+2. accepts only one null value
+3. Insertion order is not preserved
+
+LinkedHashSet:
+-------------
+1. do not accept duplicates
+2. accepts only one null value
+3. Insertion order is preserved
+
+
+MAP:
+----------
+1. elements are stored as KEY:VALUE pairs
+2. each KEY:VALUE pair is called as ENTRY
+3. KEY: do not accept duplicates , VALUE: duplicated are allowed
+4. KEY: only one null, VALUE: multiple null values
+5. Insertion order is not preserved
